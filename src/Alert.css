@@ -1,0 +1,13 @@
+.root{
+-fx-background-color : #515354;
+}
+.button{
+	-fx-font-size : 15;
+	-fx-font-weight : 900;
+}
+/* .label{ */
+/* 	-fx-text-fill : #000000;  //022346; */
+/* 	-fx-font-size : 30; */
+/* 	fx-font-weight: 900; */
+/* 	//-fx-text-fill : linear-gradient(#D2962E,#B08A46,#B0B00C,#0D0D0C,#E84B0C); */
+/* } */
