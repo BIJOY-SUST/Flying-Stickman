@@ -1,2 +1,2 @@
-# Flying-Stickman-Game-With-JavaFX
-This is a personal project for OOP Lab Course in Computer Science Department of SUST. This is a simple game , but the uncommon term is that bird can be lay eggs,bomb and life also. This project was made by JavaFX ( Java software platform ).
+### Flying Stickman Game
+This is a personal project created using JavaFX for the OOP Lab course. It's a simple game, but the unusual word is that birds can lay eggs, bombs, and even give life. The amount of life and eggs you collect is exactly the highest score you can get.
